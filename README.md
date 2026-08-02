@@ -12,5 +12,5 @@ just a gamers, wanna to be a developers, and i enjoy to make some code
 # Contact me
 [![Discord](https://img.shields.io/badge/Ichan-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/781372132378017815)
 # Website
-[![WIP-website](https://shield.io/badge/WIP-Website-blue)]
+[![WIP-website](https://shield.io/badge/WIP-Website-blue?style=flat)](https://handerdog.github.io/WIP-Website/)
 
