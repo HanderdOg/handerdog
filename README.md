@@ -1,5 +1,5 @@
 # About me 
-
+[![me](https://shields.io/badge/Handerd-blue-Github?style=flat&logo=github&logoColor=white)]
 just a gamers, wanna to be a developers, and i enjoy to make some code
 
 # Socials
