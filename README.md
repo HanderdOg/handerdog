@@ -11,8 +11,3 @@ just a gamers, wanna to be a developers
 
 **🛠️ Work In Progress 🛠️**
 
-# Future plan
-
-- make a games (a lot)
-
-- play more games
