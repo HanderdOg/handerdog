@@ -7,7 +7,7 @@ just a gamers, wanna to be a developers, and i enjoy to make some code
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white)
-# Contact
+# Contact me
 
 # Website
 
