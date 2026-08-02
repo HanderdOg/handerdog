@@ -9,7 +9,6 @@ just a gamers, wanna to be a developers, and i enjoy to make some code
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white)
 # Contact me
 [![Discord](https://img.shields.io/badge/Ichan-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/781372132378017815)
-
 # Website
 
 **`🛠️ Work In Progress 🛠️`**
