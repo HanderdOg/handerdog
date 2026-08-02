@@ -1,5 +1,6 @@
 # About me 
 [![me](https://shields.io/badge/Handerd-Github-blue?style=flat&logo=github&logoColor=white)](https://github.com/HanderdOg)
+[![SteamAccount](https://shields.io/badge/synnoob21-Steam-66C0F4?style=flat&logo=steam&logoColor=white)]()
 
 just a gamers, wanna to be a developers, and i enjoy to make some code
 
