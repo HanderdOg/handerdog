@@ -1,4 +1,4 @@
-# About me 🕹️
+# About me 😑
 
 just a gamers, wanna to be a developers
 
