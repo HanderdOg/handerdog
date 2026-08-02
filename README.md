@@ -11,5 +11,5 @@ just a gamers, wanna to be a developers
 
 # Website
 
-**🛠️ Work In Progress 🛠️**
+`🛠️ Work In Progress 🛠️`
 
