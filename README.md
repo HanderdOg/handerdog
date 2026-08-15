@@ -9,7 +9,7 @@ just a gamers, wanna to be a developers, and i enjoy to make some code
 # what i know
 ## language
 ## framework
-[![express](https://img.shields.io/badge/ExpressJs-black.svg?style=for-the-badge&logo=Express.js&logoColor=white)]
+[![express](https://img.shields.io/badge/ExpressJs-black.svg?style=for-the-badge&logo=Express.js&logoColor=white)](https://expressjs.com/)
 ![Helm](https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white)
 
 
