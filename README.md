@@ -4,7 +4,7 @@
 
 just a gamers, wanna to be a developers, and i enjoy to make some code
 
-> DISCLAIMER : I'm still still newbie
+> DISCLAIMER : I'm still learning
 
 # What I Know
 
