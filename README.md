@@ -6,6 +6,8 @@ just a gamers, wanna to be a developers, and i enjoy to make some code
 
 > DISCLAIMER : I'm still learning
 
+![Views](https://komarev.com/ghpvc/?username=HanderdOg&color=blue)
+
 # What I Know
 
 ## Languages
