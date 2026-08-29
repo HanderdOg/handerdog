@@ -39,7 +39,7 @@ just a gamers, wanna to be a developers, and i enjoy to make some code
   
 # Website
   
-**finally i have a website for my own**
+**finally i have my own website**
 
 [![WIP-website](https://img.shields.io/badge/Website-blue.svg?style=for-the-badge)](https://www.handerd.online)
 
