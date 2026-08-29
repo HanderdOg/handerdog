@@ -28,14 +28,6 @@ just a gamers, wanna to be a developers, and i enjoy to make some code
 ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-## Linux
-
-![Debian](https://img.shields.io/badge/Debian-%23D70A53.svg?style=for-the-badge&logo=debian&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-%2387CF3E.svg?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
-![Lubuntu](https://img.shields.io/badge/Lubuntu-%230065C2.svg?style=for-the-badge&logo=lubuntu&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white) 
   
 # Website
   
