@@ -1,4 +1,6 @@
-# About me 
+<div align="center">
+  
+  # About me 
 [![me](https://shields.io/badge/Handerd-Github-blue?style=flat&logo=github&logoColor=white)](https://github.com/HanderdOg)
 [![SteamAccount](https://shields.io/badge/synnoob21-Steam-66C0F4?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199812278795/)
 ![Views](https://komarev.com/ghpvc/?username=HanderdOg&color=blue)
@@ -33,12 +35,11 @@ just a gamers, wanna to be a developers, and i enjoy to make some code
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-%2387CF3E.svg?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Lubuntu](https://img.shields.io/badge/Lubuntu-%230065C2.svg?style=for-the-badge&logo=lubuntu&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-<div align="center"> 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white) 
   
 # Website
   
 **finally i have a website for my own**
 
 [![WIP-website](https://img.shields.io/badge/Website-blue.svg?style=for-the-badge&logo=westernunion&logoColor=white)](https://www.handerd.online)
+
