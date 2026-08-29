@@ -35,7 +35,8 @@ just a gamers, wanna to be a developers, and i enjoy to make some code
 ![Lubuntu](https://img.shields.io/badge/Lubuntu-%230065C2.svg?style=for-the-badge&logo=lubuntu&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-# Website
+<div align="center"> Website
 **finally i have a website for my own**
 
 [![WIP-website](https://img.shields.io/badge/Website-blue.svg?style=for-the-badge&logo=westernunion&logoColor=white)](https://www.handerd.online)
+</div>
