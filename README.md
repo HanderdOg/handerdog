@@ -35,7 +35,7 @@ just a gamers, wanna to be a developers, and i enjoy to make some code
 ![Lubuntu](https://img.shields.io/badge/Lubuntu-%230065C2.svg?style=for-the-badge&logo=lubuntu&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<div align="center" font-size="30px"> 
+<div align="center"> 
   
 # Website
   
