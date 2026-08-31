@@ -33,5 +33,5 @@ just a gamers, wanna to be a developers, and i enjoy to make some code
   
 **finally i have my own website**
 
-[![WIP-website](https://img.shields.io/badge/Website-blue.svg?style=for-the-badge)](https://www.handerd.online)
+[![WIP-website](https://img.shields.io/badge/Website-blue.svg?style=for-the-badge)](https://www.axerias.my.id)
 
