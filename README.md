@@ -29,7 +29,7 @@ just a gamers, wanna to be a developers, and i enjoy to make some code
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   
-~~~# Website
+# Website
   
 **finally i have my own website**
 
